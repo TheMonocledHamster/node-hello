@@ -10,4 +10,4 @@ WORKDIR /app
 
 USER nobody
 
-CMD ["npm", "start"]
+CMD ["node" "index.js"]
